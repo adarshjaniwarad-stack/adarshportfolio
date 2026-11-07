@@ -1,0 +1,142 @@
+
+{
+    "personal": {
+        "name": "Adarsh Janiwarad",
+        "role": "BCA First Year Student | Aspiring Web Developer",
+        "profileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=600",
+        "introduction": "Hello! I am Adarsh Janiwarad, a passionate BCA first year student who loves technology, programming and creating modern websites. I enjoy learning new technologies and solving problems through coding.",
+        "careerGoal": "To become a skilled Full Stack Developer and build innovative digital solutions.",
+        "email": "adarshjaniwarad@gmail.com",
+        "phone": "+91 9986950061",
+        "resume": "resume.pdf"
+    },
+
+    "about": {
+        "title": "A Little About Me",
+        "description": "I am currently pursuing Bachelor of Computer Applications (BCA). I have a strong interest in web development, software development and computer science. I am learning HTML, CSS, JavaScript, Bootstrap, C and C++. My goal is to improve my technical skills through practical projects, internships and continuous learning. I believe in consistency, creativity and hard work."
+    },
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "bi-filetype-html",
+            "level": "Intermediate",
+            "percentage": 80
+        },
+        {
+            "name": "CSS3",
+            "icon": "bi-filetype-css",
+            "level": "Intermediate",
+            "percentage": 75
+        },
+        {
+            "name": "JavaScript",
+            "icon": "bi-filetype-js",
+            "level": "Beginner",
+            "percentage": 55
+        },
+        {
+            "name": "Bootstrap 5",
+            "icon": "bi-bootstrap",
+            "level": "Beginner",
+            "percentage": 65
+        },
+        {
+            "name": "C Programming",
+            "icon": "bi-code-slash",
+            "level": "Beginner",
+            "percentage": 60
+        },
+        {
+            "name": "C++",
+            "icon": "bi-braces",
+            "level": "Beginner",
+            "percentage": 50
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "Personal Portfolio Website",
+            "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800",
+            "description": "A modern responsive personal portfolio website to showcase my skills, projects, education and achievements.",
+            "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Student Management System",
+            "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800",
+            "description": "A simple student management interface for displaying student details, academic records and basic information.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Calculator Application",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHeflfTk1df0hA6qESv0x9iD_NKkDYJIeruXIA67mglg&s",
+            "description": "A simple calculator application that performs basic mathematical operations with an attractive user interface.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "College Landing Page",
+            "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=800",
+            "description": "A responsive college landing page containing information about courses, facilities, admissions and contact details.",
+            "technologies": ["HTML", "CSS", "Bootstrap 5"],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": [
+        {
+            "course": "Bachelor of Computer Applications (BCA)",
+            "college": "KLE Socitey P C Jabin Science College",
+            "year": "2026 - 2029",
+            "semester": "1st Semester",
+            "details": "Currently pursuing BCA. Studying computer fundamentals, programming concepts, mathematics and web development."
+        },
+        {
+            "course": "Higher Secondary Education (12th)",
+            "college": "Dr. R B Patil Mahesh PU College",
+            "year": "2024 - 2026",
+            "semester": "Completed",
+            "details": "Completed higher secondary education with an interest in computer science and technology."
+        },
+        {
+            "course": "Secondary Education (10th)",
+            "college": "St. Anthony PUblic School",
+            "year": "2024",
+            "semester": "Completed",
+            "details": "Completed secondary school education."
+        }
+    ],
+
+    "certifications": [
+        {
+            "name": "HTML and CSS Fundamentals",
+            "provider": "Great Learning",
+            "date": "2026"
+        },
+        {
+            "name": "Introduction to JavaScript",
+            "provider": "Coursera",
+            "date": "2026"
+        },
+        {
+            "name": "C Programming Basics",
+            "provider": "SoloLearn",
+            "date": "2026"
+        },
+        {
+            "name": "Responsive Web Design",
+            "provider": "freeCodeCamp",
+            "date": "2026"
+        }
+    ],
+
+    "social": {
+        "github": "https://github.com/adarshjaniwarad-stack/adarshshopzone",
+        "linkedin": "https://linkedin.com/",
+        "instagram": "https://instagram.com/",
+        "twitter": "https://x.com/"
+    }
+}
